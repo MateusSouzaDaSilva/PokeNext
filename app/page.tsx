@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { use } from "react";
-import styles from "../styles/Home.module.css"
 
+import styles from "../styles/Home.module.css"
 
 import PokemonList from "@/components/PokemonList";
 
